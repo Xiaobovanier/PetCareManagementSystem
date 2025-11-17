@@ -1,4 +1,4 @@
-# 🐾 PetCareManagementSystemV2  
+# 🐾 PetCareManagementSystem  
 **A C# WinForms Desktop Application for Managing Owners, Pets, Appointments, and Vaccination Records**
 
 It is a fully functional **desktop management system** designed for veterinary clinics and pet care service providers.
@@ -152,5 +152,6 @@ A detailed **System Development Life Cycle Report** is included:
 **Xiaobo Zhan**  
 Software Development Attestation – Secure Desktop, Mobile and Web Applications  
 Vanier College, Montreal  
+
 
 
