@@ -63,9 +63,6 @@ This project uses a clear **Layered Architecture** for maintainability and scala
     └── DbConnection.cs
 ```
 
-> ✔️ Note: Only **source code** is included in GitHub.  
-> ❌ Build folders (`bin/`, `obj/`, `.vs/`) are excluded via `.gitignore`.
-
 ---
 
 ## 📁 Project Structure
@@ -156,13 +153,4 @@ A detailed **System Development Life Cycle Report** is included:
 Software Development Attestation – Secure Desktop, Mobile and Web Applications  
 Vanier College, Montreal  
 
----
-
-## ⭐ Future Enhancements
-
-- Migrate data layer to SQL Server  
-- Add login & authentication module  
-- Export reports to PDF  
-- Add search filtering UI  
-- Add dashboard with statistics  
 
