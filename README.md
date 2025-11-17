@@ -1,7 +1,6 @@
 # 🐾 PetCareManagementSystemV2  
 **A C# WinForms Desktop Application for Managing Owners, Pets, Appointments, and Vaccination Records**
 
-This project is part of the **Software Development Attestation – Secure Desktop, Mobile and Web Applications** program at **Vanier College**.  
 It is a fully functional **desktop management system** designed for veterinary clinics and pet care service providers.
 
 ---
@@ -167,16 +166,3 @@ Vanier College, Montreal
 - Add search filtering UI  
 - Add dashboard with statistics  
 
----
-
-## 🤝 Contributions
-
-Pull requests are welcome.  
-For major changes, please open an issue first to discuss the update.
-
----
-
-## 📜 License
-
-This project is for educational purposes.  
-Commercial use is not permitted without permission.
